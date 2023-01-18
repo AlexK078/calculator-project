@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\bin\Debug\net6.0-windows\Calculator Project.exe
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\bin\Debug\net6.0-windows\Calculator Project.deps.json
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\bin\Debug\net6.0-windows\Calculator Project.runtimeconfig.json
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\bin\Debug\net6.0-windows\Calculator Project.dll
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\bin\Debug\net6.0-windows\Calculator Project.pdb
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\obj\Debug\net6.0-windows\Calculator Project.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\obj\Debug\net6.0-windows\Calculator_Project.Form1.resources
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\obj\Debug\net6.0-windows\Calculator Project.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\obj\Debug\net6.0-windows\Calculator Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\obj\Debug\net6.0-windows\Calculator Project.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\obj\Debug\net6.0-windows\Calculator Project.AssemblyInfo.cs
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\obj\Debug\net6.0-windows\Calculator Project.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\obj\Debug\net6.0-windows\Calculator Project.dll
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\obj\Debug\net6.0-windows\refint\Calculator Project.dll
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\obj\Debug\net6.0-windows\Calculator Project.pdb
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\obj\Debug\net6.0-windows\Calculator Project.genruntimeconfig.cache
+C:\Users\USER\source\repos\Calculator Project\Calculator Project\obj\Debug\net6.0-windows\ref\Calculator Project.dll
